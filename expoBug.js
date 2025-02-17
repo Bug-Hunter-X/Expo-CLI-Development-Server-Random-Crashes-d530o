@@ -1,0 +1,1 @@
+While using Expo CLI, I encountered an issue where the development server would randomly crash without providing any clear error messages in the terminal.  The app would continue to run on the simulator or device, but the Metro bundler would become unresponsive, requiring a manual restart. This occurred intermittently, making debugging challenging.
